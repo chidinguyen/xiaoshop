@@ -1,0 +1,13 @@
+package com.xiaoshop;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class XiaoShopBackEndApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
