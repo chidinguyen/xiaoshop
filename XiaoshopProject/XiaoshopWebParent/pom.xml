@@ -20,6 +20,7 @@
 	
 	<modules>
 		<module>XiaoshopBackEnd</module>
+		<module>XiaoshopFrontEnd</module>
 	</modules>
 	
 	<dependencies>
