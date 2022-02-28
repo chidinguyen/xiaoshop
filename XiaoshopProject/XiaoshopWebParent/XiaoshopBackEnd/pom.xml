@@ -10,7 +10,7 @@
 	</parent>
 	<artifactId>XiaoshopBackEnd</artifactId>
 	<name>XiaoshopBackEnd</name>
-	<description>xiaoshop backend</description>
+	<description>Xiaoshop Admin Project</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

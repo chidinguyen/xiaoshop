@@ -1,4 +1,4 @@
-package com.xiaoshop.admin;
+package com.xiaoshop.stie;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class MainController {
 
 	@GetMapping("")
-	public String viewAdminPage() {
+	public String viewHomePage() {
 		return "index";
 	}
 }
